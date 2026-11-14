@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="EXAM MASTER - Central aur State government exams ke syllabus, mock tests, PYQ, practice, current affairs aur study material ka learning platform.">
+<title>EXAM MASTER | All India Exam Preparation</title>
+<style>
+:root{--navy:#142e59;--blue:#2457a5;--orange:#ff8500;--bg:#f3f6fb;--card:#fff;--ink:#17243a;--muted:#68778d;--line:#e0e7f0;--green:#168653}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,"Noto Sans Devanagari",sans-serif}button,input,select{font:inherit}button{cursor:pointer;border:0;border-radius:10px;padding:11px 15px;background:var(--orange);color:#fff;font-weight:700}button.alt{background:#eaf0fa;color:var(--navy)}a{color:inherit;text-decoration:none}
+header{background:linear-gradient(115deg,var(--navy),var(--blue));color:white;padding:15px max(16px,calc((100% - 1200px)/2));display:flex;align-items:center;justify-content:space-between;gap:15px;flex-wrap:wrap;position:sticky;top:0;z-index:5}
+.logo{font-size:24px;font-weight:900}.logo small{display:block;font-size:11px;font-weight:400;opacity:.8;letter-spacing:1px}.headright{display:flex;gap:8px;align-items:center}.headright select{width:auto;min-width:110px}
+nav{background:white;border-bottom:1px solid var(--line);display:flex;gap:6px;overflow:auto;padding:9px max(12px,calc((100% - 1200px)/2));position:sticky;top:67px;z-index:4}
+nav button{white-space:nowrap;background:transparent;color:var(--muted);padding:9px 12px}nav button.active,nav button:hover{background:#edf3fc;color:var(--blue)}
+.wrap{max-width:1200px;margin:22px auto;padding:0 15px}.hero{background:linear-gradient(120deg,#173967,#2864b4);border-radius:18px;color:white;padding:30px;display:grid;grid-template-columns:1.5fr 1fr;gap:20px;align-items:center}.hero h1{font-size:32px;margin:0 0 10px}.hero p{line-height:1.6;opacity:.9}.searchrow{display:flex;gap:8px;margin-top:18px}.searchrow input{flex:1}.heroart{font-size:88px;text-align:center}
+input,select{padding:12px;border:1px solid var(--line);border-radius:10px;background:white;color:var(--ink);min-width:0}input{width:100%}
+.section{margin-top:25px}.sectionhead{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.section h2{margin:0 0 13px;font-size:22px}.muted{color:var(--muted);font-size:14px;line-height:1.55}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:13px}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:17px;box-shadow:0 4px 16px #142e5908}.card .ico{font-size:27px}.card h3{font-size:16px;margin:9px 0 5px}.card p{margin:0 0 13px}.card button{width:100%}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:17px}.stat{background:white;border:1px solid var(--line);border-radius:12px;padding:14px}.stat b{font-size:22px;color:var(--blue);display:block}
+.view{display:none}.view.active{display:block}.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}.list{background:white;border:1px solid var(--line);border-radius:12px;padding:15px;margin:8px 0}.list h3{margin:0 0 5px}.tag{display:inline-block;background:#edf3fc;color:var(--blue);border-radius:30px;padding:5px 9px;font-size:12px;margin:3px}
+.notice{background:#fff6e7;border:1px solid #f3dfb8;color:#78500d;padding:13px;border-radius:11px;font-size:13px;line-height:1.5;margin-top:14px}
+.examfilters{display:grid;grid-template-columns:1fr 1fr 2fr;gap:10px;margin:12px 0}
+.quizbox{background:white;border:1px solid var(--line);border-radius:14px;padding:20px;margin-top:14px}.qopt{display:block;padding:12px;border:1px solid var(--line);border-radius:9px;margin:8px 0}.qopt input{width:auto;margin-right:8px}.result{font-weight:700;margin-top:12px}
+footer{text-align:center;padding:30px;color:var(--muted);font-size:13px}
+@media(max-width:700px){.hero{grid-template-columns:1fr;padding:22px}.hero h1{font-size:25px}.heroart{display:none}.stats{grid-template-columns:1fr 1fr}.two{grid-template-columns:1fr}.examfilters{grid-template-columns:1fr}nav{top:68px}}
+</style>
+</head>
+<body>
+<header><div class="logo">📘 EXAM MASTER<small>ALL INDIA COMPETITIVE EXAM PREPARATION</small></div><div class="headright"><select id="language" onchange="changeLang()"><option value="hi">हिन्दी</option><option value="en">English</option></select><button class="alt" onclick="show('profile')">👤 Student Login</button></div></header>
+<nav id="nav">
+<button class="active" data-view="home" onclick="show('home')">🏠 Home</button><button data-view="exams" onclick="show('exams')">📚 All Exams</button><button data-view="syllabus" onclick="show('syllabus')">📖 Syllabus</button><button data-view="mock" onclick="show('mock')">📝 Mock Test</button><button data-view="pyq" onclick="show('pyq')">📋 PYQ</button><button data-view="practice" onclick="show('practice')">❓ Practice</button><button data-view="current" onclick="show('current')">📰 Current Affairs</button><button data-view="material" onclick="show('material')">📕 Notes & PDFs</button><button data-view="planner" onclick="show('planner')">📅 Study Planner</button><button data-view="premium" onclick="show('premium')">⭐ Premium</button><button data-view="profile" onclick="show('profile')">👤 Profile</button>
+</nav>
+<main class="wrap">
+<section id="home" class="view active">
+<div class="hero"><div><h1>सपनों की सरकारी नौकरी की तैयारी, अब एक ही जगह!</h1><p>State और Central परीक्षाओं के लिए syllabus, mock tests, previous year questions, practice और study planning.</p><div class="searchrow"><input id="globalSearch" placeholder="Exam या syllabus खोजें — जैसे MP Police, SSC CGL" onkeydown="if(event.key==='Enter')searchAll()"><button onclick="searchAll()">Search</button></div></div><div class="heroart">🎓📚</div></div>
+<div class="stats"><div class="stat"><b>36</b><span>राज्य + केंद्र शासित प्रदेश</span></div><div class="stat"><b>Central</b><span>राष्ट्रीय स्तर की परीक्षाएँ</span></div><div class="stat"><b>Hindi + English</b><span>भाषा विकल्प</span></div><div class="stat"><b>24×7</b><span>अपनी गति से अभ्यास</span></div></div>
+<div class="section"><div class="sectionhead"><h2>मुख्य सुविधाएँ</h2><span class="muted">एक complete preparation dashboard</span></div><div class="grid" id="featureCards"></div></div>
+<div class="section"><h2>लोकप्रिय परीक्षाएँ</h2><div class="grid" id="popular"></div></div>
+<div class="notice">Demo सूचना: अभी यह वेबसाइट का शुरुआती front-end है। सभी परीक्षाओं के verified syllabus, वास्तविक PYQ, full-length question banks, live login, payment gateway और server/database जोड़ना बाकी है। नमूना सामग्री को आधिकारिक प्रश्नपत्र न समझें।</div>
+</section>
+<section id="exams" class="view">
+<h2>सभी परीक्षाएँ</h2><p class="muted">Central, State और UT स्तर की परीक्षाएँ खोजें। परीक्षा का नाम चुनकर उसका syllabus और उपलब्ध अभ्यास खोलें।</p>
+<div class="examfilters"><select id="category" onchange="renderExams()"><option value="all">सभी श्रेणियाँ</option><option value="central">Central Exams</option><option value="state">State / UT Exams</option></select><select id="stateFilter" onchange="renderExams()"><option value="all">सभी राज्य / UT</option></select><input id="examSearch" placeholder="परीक्षा खोजें..." oninput="renderExams()"></div><div class="grid" id="examCards"></div>
+</section>
+<section id="syllabus" class="view"><h2>Complete Syllabus</h2><p class="muted">किसी परीक्षा का नाम खोजें। यहाँ syllabus का verified content जोड़े जाने पर उसका पूरा विषयवार विवरण दिखेगा।</p><div class="searchrow"><input id="syllabusSearch" placeholder="जैसे MPPSC, SSC CGL, RRB NTPC"><button onclick="lookupSyllabus()">खोजें</button></div><div id="syllabusResult" class="section"></div><div class="notice">SEO के लिए हर परीक्षा के syllabus का अपना स्थायी URL/page, सही title, description, structured content और sitemap बनाना होगा। केवल इस search box से Google पर ranking सुनिश्चित नहीं होती।</div></section>
+<section id="mock" class="view">
+<h2>Full Length Mock Test</h2>
+<p class="muted">Imported, exam-tagged question banks से bilingual practice करें। उपलब्ध प्रश्नों से अधिक प्रश्न माँगने पर demo प्रश्न दोहराए नहीं जाएँगे।</p>
+<div class="grid">
+<div><label>Exam</label><select id="mockExam"></select></div>
+<div><label>Test language</label><select id="mockLang"><option value="hi">हिन्दी</option><option value="en">English</option></select></div>
+<div><label>Subject / विषय</label><select id="mockSubject"><option value="all">All imported subjects</option><option value="General Awareness">General Awareness</option><option value="General Intelligence and Reasoning">General Intelligence and Reasoning</option></select></div>
+<div><label>Question count</label><select id="mockCount"><option>10</option><option selected>25</option><option>50</option><option>100</option><option>150</option><option>200</option></select></div>
+<div><label>Duration (minutes)</label><select id="mockTime"><option selected>15</option><option>30</option><option>60</option><option>90</option><option>120</option><option>180</option></select></div>
+</div>
+<div class="card section">
+<h3>Question Bank Import</h3>
+<p class="muted">अपने EXAM MASTER JSON question-bank file को चुनें। यह browser में इसी device पर सेव होगा; अभी server पर upload नहीं होगा।</p>
+<input id="bankFile" type="file" accept=".json,application/json">
+<div class="actions"><button onclick="importQuestionBank()">Import JSON Question Bank</button><button class="alt" onclick="clearImportedQuestions()">Clear Imported Bank</button></div>
+<p id="bankStatus" class="muted">अभी कोई JSON question bank import नहीं हुआ है।</p>
+</div>
+<button onclick="startQuiz()">Start Mock Test</button>
+<div id="quizArea"></div>
+</section>
+<section id="pyq" class="view"><h2>Previous Year Questions (PYQ)</h2><p class="muted">Exam, year और paper के अनुसार PYQ खोजें।</p><div class="grid"><select id="pyqExam"></select><select id="pyqYear"><option>2025</option><option>2024</option><option>2023</option><option>2022</option><option>2021</option><option>2020</option></select><select><option>All papers</option><option>Paper 1</option><option>Paper 2</option></select></div><div class="notice">इस demo में PYQ files अपलोड नहीं हैं। केवल आधिकारिक/कानूनी रूप से उपलब्ध प्रश्नपत्र और सही वर्ष/पेपर metadata जोड़ें।</div></section>
+<section id="practice" class="view"><h2>Subject-wise Practice</h2><div class="grid" id="subjects"></div></section>
+<section id="current" class="view"><h2>Current Affairs</h2><p class="muted">Daily national, international, economy, science, sports और state current affairs.</p><div class="grid" id="affairs"></div><div class="notice">Live news feed अभी connect नहीं है। Current affairs publish करने से पहले तारीख और भरोसेमंद स्रोत verify करना जरूरी है।</div></section>
+<section id="material" class="view"><h2>Notes & PDFs</h2><div class="grid" id="materials"></div><div class="notice">यहाँ subject-wise notes, downloadable PDFs और revision sheets upload किए जा सकते हैं। फिलहाल demo placeholders हैं।</div></section>
+<section id="planner" class="view"><h2>Study Planner</h2><p class="muted">अपना daily study target लिखें। यह demo plan इसी browser में सेव होगा।</p><div class="grid"><input id="planDate" type="date"><input id="planTask" placeholder="आज का लक्ष्य — जैसे Reasoning के 2 chapter"><input id="planHours" type="number" min="1" max="16" placeholder="घंटे"><button onclick="savePlan()">लक्ष्य सेव करें</button></div><div id="planList" class="section"></div></section>
+<section id="premium" class="view"><h2>EXAM MASTER Membership</h2><div class="grid"><div class="card"><span class="tag">PYQ PLAN</span><h3>₹29 / 1 महीना</h3><p class="muted">PYQ सामग्री की सदस्यता — 30 दिन।</p><button onclick="alert('Payment gateway अभी connect नहीं है।')">Choose ₹29</button></div><div class="card"><span class="tag">PREMIUM</span><h3>₹49 / 3 महीने</h3><p class="muted">Premium सुविधाएँ — 90 दिन।</p><button onclick="alert('Payment gateway अभी connect नहीं है।')">Choose ₹49</button></div></div><div class="notice">अभी कोई भुगतान न करें। वास्तविक subscription, secure payment gateway, account verification और expiry control backend जुड़ने के बाद ही चालू होंगे।</div></section>
+<section id="profile" class="view"><h2>Student Profile</h2><p class="muted">Demo profile form. असली login के लिए secure backend और OTP/authentication सेवा चाहिए।</p><div class="grid"><input placeholder="विद्यार्थी का नाम"><input placeholder="ईमेल या मोबाइल"><select><option>अपना लक्ष्य चुनें</option><option>SSC</option><option>Railway</option><option>UPSC / State PSC</option><option>Police</option><option>Teaching</option><option>Other</option></select><button onclick="alert('Login system अभी backend से connect नहीं है।')">Continue</button></div></section>
+</main><footer>© 2026 EXAM MASTER • Learn • Practice • Achieve</footer>
+<script>
+const states=["Andhra Pradesh","Arunachal Pradesh","Assam","Bihar","Chhattisgarh","Goa","Gujarat","Haryana","Himachal Pradesh","Jharkhand","Karnataka","Kerala","Madhya Pradesh","Maharashtra","Manipur","Meghalaya","Mizoram","Nagaland","Odisha","Punjab","Rajasthan","Sikkim","Tamil Nadu","Telangana","Tripura","Uttar Pradesh","Uttarakhand","West Bengal","Andaman and Nicobar Islands","Chandigarh","Dadra and Nagar Haveli and Daman and Diu","Delhi","Jammu and Kashmir","Ladakh","Lakshadweep","Puducherry"];
+const central=["UPSC Civil Services Prelims","SSC CGL","SSC CHSL","SSC MTS","SSC GD Constable","SSC CPO","RRB NTPC","RRB Group D","RRB ALP","RRB Technician","IBPS PO","IBPS Clerk","SBI PO","SBI Clerk","RBI Grade B","CTET","NDA","CDS","CAPF","EPFO"];
+const stateExams=["State PSC Prelims","Police Constable","Police SI","Patwari / Revenue","Teacher Recruitment / TET","Forest Guard","Group C / Group D","Clerk / Assistant","Jail Prahari","Excise Constable"];
+const allExams=[...central.map(n=>({name:n,cat:"central",state:"Central"})),...states.flatMap(s=>stateExams.map(n=>({name:s+" "+n,cat:"state",state:s})))];
+const features=[["📖","Complete Syllabus","Exam-wise, subject-wise syllabus"],["📝","Full Length Mock Test","Timed exam-like practice"],["📋","Previous Year Papers","Year and paper-wise PYQ"],["❓","Practice Questions","Topic-wise question bank"],["📊","Test Analysis","Score and performance review"],["📰","Current Affairs","Daily news and GK updates"],["📕","Notes & PDFs","Study material and revision"],["📅","Study Planner","Daily targets and progress"],["🏆","Leaderboard","Compare practice scores"],["🔖","Bookmarks","Save important questions"],["🌐","Multi Language","Hindi and English interface"],["⭐","Premium","Membership and learning tools"]];
+function show(id){document.querySelectorAll(".view").forEach(v=>v.classList.remove("active"));document.getElementById(id).classList.add("active");document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("active",b.dataset.view===id));if(id==="exams")renderExams();if(id==="planner")renderPlans();window.scrollTo({top:0,behavior:"smooth"})}
+document.getElementById("featureCards").innerHTML=features.map((f,i)=>`<div class="card"><div class="ico">${f[0]}</div><h3>${f[1]}</h3><p class="muted">${f[2]}</p><button class="alt" onclick="show('${["syllabus","mock","pyq","practice","mock","current","material","planner","profile","profile","home","premium"][i]}')">Open</button></div>`).join("");
+document.getElementById("popular").innerHTML=["MPPSC","MP Police Constable","SSC CGL","RRB NTPC","UPSC Prelims","Bihar Police"].map(n=>`<div class="card"><h3>${n}</h3><p class="muted">Syllabus और practice के लिए खोलें।</p><button class="alt" onclick="show('syllabus');document.getElementById('syllabusSearch').value='${n}';lookupSyllabus()">View</button></div>`).join("");
+document.getElementById("stateFilter").innerHTML+=[...states].map(s=>`<option>${s}</option>`).join("");
+function renderExams(){let cat=document.getElementById("category").value,st=document.getElementById("stateFilter").value,q=document.getElementById("examSearch").value.toLowerCase();let arr=allExams.filter(e=>(cat==="all"||e.cat===cat)&&(st==="all"||e.state===st)&&e.name.toLowerCase().includes(q)).slice(0,100);document.getElementById("examCards").innerHTML=arr.map(e=>`<div class="card"><span class="tag">${e.state}</span><h3>${e.name}</h3><p class="muted">Syllabus • Mock test • Practice</p><button class="alt" onclick="show('syllabus');document.getElementById('syllabusSearch').value='${e.name}';lookupSyllabus()">View Exam</button></div>`).join("")||"<p>No exam found.</p>"}
+function fillExamSelects(){["mockExam","pyqExam"].forEach(id=>document.getElementById(id).innerHTML=allExams.slice(0,150).map(e=>`<option>${e.name}</option>`).join(""))}fillExamSelects();renderExams();
+function searchAll(){let q=document.getElementById("globalSearch").value;show("exams");document.getElementById("examSearch").value=q;renderExams();if(!document.getElementById("examCards").innerHTML.trim()){show("syllabus");document.getElementById("syllabusSearch").value=q;lookupSyllabus()}}
+function lookupSyllabus(){let q=document.getElementById("syllabusSearch").value.trim();document.getElementById("syllabusResult").innerHTML=`<div class="list"><h3>${q||"Exam"} — Syllabus</h3><p class="muted">इस परीक्षा का verified syllabus अभी database में जोड़ा जाना बाकी है। Official notification के अनुसार विषय, units, topics, stage और exam pattern जोड़ने पर यहाँ पूरा syllabus दिखाई देगा।</p><span class="tag">Verification pending</span></div>`}
+const demoQ=[
+{q:"मध्य प्रदेश की राजधानी क्या है?",e:"What is the capital of Madhya Pradesh?",o:["इंदौर","जबलपुर","भोपाल","ग्वालियर"],oe:["Indore","Jabalpur","Bhopal","Gwalior"],a:2,why:"भोपाल मध्य प्रदेश की राजधानी है।",whyEn:"Bhopal is the capital of Madhya Pradesh.",marksCorrect:1,marksWrong:0,imported:false},
+{q:"15 का 20% कितना है?",e:"What is 20% of 15?",o:["2","3","4","5"],oe:["2","3","4","5"],a:1,why:"15 × 20/100 = 3.",whyEn:"15 × 20/100 = 3.",marksCorrect:1,marksWrong:0,imported:false},
+{q:"श्रृंखला पूरी करें: 2, 4, 8, 16, ?",e:"Complete the series: 2, 4, 8, 16, ?",o:["18","24","30","32"],oe:["18","24","30","32"],a:3,why:"हर पद पिछले पद का दोगुना है; अगला पद 32 है।",whyEn:"Each term is twice the previous term; the next term is 32.",marksCorrect:1,marksWrong:0,imported:false},
+{q:"पानी का रासायनिक सूत्र क्या है?",e:"What is the chemical formula of water?",o:["CO₂","H₂O","O₂","NaCl"],oe:["CO₂","H₂O","O₂","NaCl"],a:1,why:"पानी के अणु में दो हाइड्रोजन और एक ऑक्सीजन परमाणु होता है।",whyEn:"A water molecule contains two hydrogen atoms and one oxygen atom.",marksCorrect:1,marksWrong:0,imported:false},
+{q:"भारत का राष्ट्रीय पशु कौन है?",e:"What is the national animal of India?",o:["एशियाई शेर","बाघ","हाथी","तेंदुआ"],oe:["Asiatic lion","Tiger","Elephant","Leopard"],a:1,why:"भारत का राष्ट्रीय पशु बाघ है।",whyEn:"The tiger is the national animal of India.",marksCorrect:1,marksWrong:0,imported:false}
+];
+let quiz=[],qi=0,ans={},importedQuestions=JSON.parse(localStorage.getItem("em_question_bank_v1")||"[]"),quizClock=null,quizRemaining=0,quizInfo="";
+const bankKeys=["A","B","C","D"];
+function escapeHtml(v){return String(v==null?"":v).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]))}
+function isValidBankQuestion(q){
+  return !!(q&&q.id&&q.exam_id&&q.languages&&["en","hi"].every(l=>q.languages[l]&&q.languages[l].question&&q.languages[l].options&&bankKeys.every(k=>typeof q.languages[l].options[k]==="string"))&&bankKeys.includes(q.correct_option)&&q.marks&&Number.isFinite(Number(q.marks.correct))&&Number.isFinite(Number(q.marks.wrong)));
+}
+function updateBankStatus(message){
+  const el=document.getElementById("bankStatus");if(!el)return;
+  const count=importedQuestions.length;
+  const exams=[...new Set(importedQuestions.map(q=>q.exam_id))];
+  el.textContent=message||("Imported questions: "+count+" • Exam IDs: "+(exams.join(", ")||"none")+" • Saved only in this browser.");
+}
+function importQuestionBank(){
+  const file=document.getElementById("bankFile").files[0];
+  if(!file){alert("पहले JSON file चुनें।");return}
+  const reader=new FileReader();
+  reader.onload=()=>{
+    try{
+      const data=JSON.parse(reader.result);
+      if(!data||!Array.isArray(data.questions)||data.questions.length===0)throw new Error("JSON में questions की सूची नहीं मिली।");
+      const invalid=data.questions.filter(q=>!isValidBankQuestion(q));
+      if(invalid.length)throw new Error(invalid.length+" प्रश्नों का format सही नहीं है; कोई प्रश्न import नहीं किया गया।");
+      const map=new Map(importedQuestions.map(q=>[q.id,q]));
+      data.questions.forEach(q=>map.set(q.id,q));
+      importedQuestions=[...map.values()];
+      localStorage.setItem("em_question_bank_v1",JSON.stringify(importedQuestions));
+      updateBankStatus("सफलतापूर्वक import हुआ: "+data.questions.length+" प्रश्न • Batch: "+(data.batch_id||"unspecified")+" • कुल सेव प्रश्न: "+importedQuestions.length);
+      document.getElementById("bankFile").value="";
+    }catch(err){alert("Import नहीं हुआ: "+err.message)}
+  };
+  reader.onerror=()=>alert("JSON file पढ़ी नहीं जा सकी।");
+  reader.readAsText(file,"UTF-8");
+}
+function clearImportedQuestions(){
+  if(!confirm("क्या इस browser में सेव सभी imported questions हटाने हैं?"))return;
+  importedQuestions=[];localStorage.removeItem("em_question_bank_v1");updateBankStatus("Imported question bank इस browser से साफ कर दिया गया है।");
+}
+function bankQuestionToQuiz(q){
+  const L=q.languages;
+  return {
+    id:q.id,exam_id:q.exam_id,subject:q.subject,topic:q.topic,difficulty:q.difficulty,
+    q:L.hi.question,e:L.en.question,
+    o:bankKeys.map(k=>L.hi.options[k]),oe:bankKeys.map(k=>L.en.options[k]),
+    a:bankKeys.indexOf(q.correct_option),
+    why:L.hi.explanation,whyEn:L.en.explanation,
+    marksCorrect:Number(q.marks.correct),marksWrong:Number(q.marks.wrong),
+    marksUnattempted:Number(q.marks.unattempted||0),
+    imported:true,provenance:q.provenance||"Original practice question"
+  };
+}
+function formatQuizTime(){
+  const m=Math.floor(quizRemaining/60),s=quizRemaining%60;
+  return String(m).padStart(2,"0")+":"+String(s).padStart(2,"0");
+}
+function startQuiz(){
+  const requested=+document.getElementById("mockCount").value;
+  const examLabel=document.getElementById("mockExam").value||"";
+  const subjectFilter=document.getElementById("mockSubject").value;
+  const isCGL=/SSC CGL/i.test(examLabel);
+  let available=importedQuestions.filter(q=>isCGL&&q.exam_id==="SSC_CGL_2026"&&q.stage==="Tier-I");
+  if(subjectFilter!=="all")available=available.filter(q=>q.subject===subjectFilter);
+  if(available.length){
+    quiz=available.map(bankQuestionToQuiz).slice(0,requested);
+    quizInfo=quiz.length<requested
+      ?("इस परीक्षा/विषय के लिए "+quiz.length+" imported प्रश्न उपलब्ध हैं; "+requested+" की माँग पर भी कोई प्रश्न दोहराया नहीं गया।")
+      :("Imported bilingual question bank • "+quiz.length+" प्रश्न।");
+  }else{
+    quiz=demoQ.slice(0,Math.min(requested,demoQ.length));
+    quizInfo="इस परीक्षा/विषय का verified question bank import नहीं है। नीचे केवल "+quiz.length+" सामान्य demo प्रश्न हैं; यह exam-specific या full-length mock नहीं है।";
+  }
+  qi=0;ans={};quizRemaining=+document.getElementById("mockTime").value*60;
+  clearInterval(quizClock);renderQuiz();
+  quizClock=setInterval(()=>{
+    quizRemaining--;
+    const t=document.getElementById("quizTimer");if(t)t.textContent="Time: "+formatQuizTime();
+    if(quizRemaining<=0)finishQuiz(true);
+  },1000);
+}
+function renderQuiz(){
+  const q=quiz[qi],en=document.getElementById("mockLang").value==="en";
+  const opts=en?q.oe:q.o,question=en?q.e:q.q;
+  const label=q.imported?(q.topic||q.subject||"Imported practice"):"Generic demo sample";
+  document.getElementById("quizArea").innerHTML=
+    `<div class="notice">${escapeHtml(quizInfo)}</div>
+    <div class="quizbox">
+      <div class="sectionhead"><b>Question ${qi+1} / ${quiz.length}</b><span class="tag">${escapeHtml(label)}</span><span class="tag" id="quizTimer">Time: ${formatQuizTime()}</span></div>
+      <p class="muted">${escapeHtml(q.difficulty||"Demo")} ${q.imported?"• "+escapeHtml(q.subject||""):""}</p>
+      <h3>${escapeHtml(question)}</h3>
+      ${opts.map((o,i)=>`<label class="qopt"><input type="radio" name="q" ${ans[qi]===i?"checked":""} onchange="ans[qi]=${i}">${"ABCD"[i]}. ${escapeHtml(o)}</label>`).join("")}
+      <div class="sectionhead">
+        <button class="alt" onclick="qi=Math.max(0,qi-1);renderQuiz()" ${qi===0?"disabled":""}>Previous</button>
+        <button onclick="${qi===quiz.length-1?"finishQuiz()":"qi++;renderQuiz()"}">${qi===quiz.length-1?"Submit":"Next"}</button>
+      </div>
+    </div>`;
+}
+function finishQuiz(timeUp=false){
+  clearInterval(quizClock);
+  let correct=0,wrong=0,attempted=0,score=0,maxMarks=0;
+  quiz.forEach((q,i)=>{
+    maxMarks+=Number(q.marksCorrect||0);
+    if(ans[i]!==undefined){
+      attempted++;
+      if(ans[i]===q.a){correct++;score+=Number(q.marksCorrect||0)}
+      else{wrong++;score+=Number(q.marksWrong||0)}
+    }
+  });
+  const unattempted=quiz.length-attempted;
+  const en=document.getElementById("mockLang").value==="en";
+  const fmt=n=>Number(n.toFixed(2)).toString();
+  const review=quiz.map((q,i)=>{
+    const right=q.o[q.a],rightEn=q.oe[q.a],why=en?q.whyEn:q.why;
+    const selected=ans[i]===undefined?(en?"Not attempted":"अनुत्तरित"):(en?q.oe[ans[i]]:q.o[ans[i]]);
+    return `<div class="list"><b>${i+1}. ${escapeHtml(en?q.e:q.q)}</b><p class="muted">${en?"Your answer":"आपका उत्तर"}: ${escapeHtml(selected)}</p><p><b>${en?"Correct answer":"सही उत्तर"}:</b> ${escapeHtml(en?rightEn:right)}</p><p class="muted">${escapeHtml(why||"")}</p></div>`;
+  }).join("");
+  document.getElementById("quizArea").innerHTML=
+    `<div class="quizbox">
+      <h2>${en?"Test result":"टेस्ट परिणाम"}${timeUp?(en?" • Time up":" • समय समाप्त"):""}</h2>
+      <div class="cards">
+        <div class="card"><b>${fmt(score)} / ${fmt(maxMarks)}</b><span>${en?"Score":"अंक"}</span></div>
+        <div class="card"><b>${correct}</b><span>${en?"Correct":"सही"}</span></div>
+        <div class="card"><b>${wrong}</b><span>${en?"Wrong":"गलत"}</span></div>
+        <div class="card"><b>${unattempted}</b><span>${en?"Unattempted":"अनुत्तरित"}</span></div>
+      </div>
+      <p class="muted">${en?"Scoring uses the imported question's marks and negative-marking rule.":"अंक imported प्रश्न के marks और negative-marking rule के अनुसार निकाले गए हैं।"}</p>
+      <button onclick="startQuiz()">${en?"Retake test":"फिर से टेस्ट दें"}</button>
+      <h3>${en?"Answer review":"उत्तर समीक्षा"}</h3>${review}
+    </div>`;
+}
+updateBankStatus();
+document.getElementById("subjects").innerHTML=["General Knowledge","Reasoning","Mathematics","General Science","Hindi","English","Computer","Indian Polity","History","Geography","Economics","State GK"].map(s=>`<div class="card"><h3>📘 ${s}</h3><p class="muted">Topic-wise questions and explanations.</p><button class="alt" onclick="show('mock')">Practice</button></div>`).join("");
+document.getElementById("affairs").innerHTML=["National Affairs","International Affairs","Economy & Banking","Science & Technology","Sports","State Current Affairs"].map(s=>`<div class="card"><h3>📰 ${s}</h3><p class="muted">Daily verified updates will appear here.</p></div>`).join("");
+document.getElementById("materials").innerHTML=["General Knowledge Notes","Reasoning Practice PDF","Maths Formula Sheet","Polity Short Notes","State GK Notes","Previous Paper PDFs"].map(s=>`<div class="card"><h3>📕 ${s}</h3><p class="muted">Material upload pending.</p><button class="alt" disabled>Coming soon</button></div>`).join("");
+function savePlan(){let d=document.getElementById("planDate").value,t=document.getElementById("planTask").value,h=document.getElementById("planHours").value;if(!d||!t)return alert("Date aur study target bharen.");let a=JSON.parse(localStorage.getItem("em_plans")||"[]");a.push({d,t,h});localStorage.setItem("em_plans",JSON.stringify(a));renderPlans()}
+function renderPlans(){let a=JSON.parse(localStorage.getItem("em_plans")||"[]");document.getElementById("planList").innerHTML=a.map(x=>`<div class="list"><b>${x.d}</b> — ${x.t} <span class="tag">${x.h||"?"} hours</span></div>`).join("")||"<p class='muted'>अभी कोई लक्ष्य सेव नहीं है।</p>"}
+function changeLang(){alert("Language selector demo: English/Hindi question sets are available only in the mock-test sample. Remaining sections need reviewed translations.")}
+</script>
+</body></html>

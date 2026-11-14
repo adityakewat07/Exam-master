@@ -1,0 +1,1333 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "EXAM-MASTER-2026-11-14-SSC-CGL-T1-GA-INDIAN-POLITY-01",
+  "created_on": "2026-11-14",
+  "status": "official_syllabus_mapped_original_practice_set",
+  "exam_pattern": {
+    "exam": "SSC Combined Graduate Level Examination, 2026",
+    "authority": "Staff Selection Commission (SSC)",
+    "stage": "Tier-I",
+    "paper": "Computer Based Examination",
+    "section": "B — General Awareness",
+    "questions_in_official_section": 25,
+    "marks_in_official_section": 50,
+    "duration_minutes_per_section": 15,
+    "overall_tier_i_questions": 100,
+    "overall_tier_i_marks": 200,
+    "overall_tier_i_duration_minutes": 60,
+    "marks_per_correct_answer": 2,
+    "negative_marking_per_wrong_answer": -0.5,
+    "unattempted_marks": 0,
+    "negative_marking_rule": "0.50 marks are deducted for each wrong answer in Tier-I. No penalty for an unattempted question.",
+    "language_rule": "Tier-I questions are set in English and Hindi except the English Comprehension section. This batch provides matched English and Hindi versions.",
+    "official_source": {
+      "title": "Combined Graduate Level Examination, 2026 — Notice",
+      "notice_number": "F. No. HQ-C11018/1/2026-C-1",
+      "notice_date": "2026-05-21",
+      "paragraphs": [
+        "13.8",
+        "13.8.1",
+        "13.8.2"
+      ],
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf"
+    },
+    "scribe_duration_minutes_per_section": 20,
+    "scribe_overall_tier_i_duration_minutes": 80,
+    "scribe_note": "For candidates eligible for a scribe under the notice's specified provisions, the notice provides 1 hour 20 minutes overall with 20 minutes per subject (15+5)."
+  },
+  "syllabus_mapping": {
+    "official_subject": "General Awareness",
+    "official_syllabus_paragraph": "13.10.2",
+    "official_scope_summary": "General awareness of the environment and its application to society; current events; everyday scientific observations; India and neighbouring countries, especially History, Culture, Geography, Economic Scene, General Policy and Scientific Research.",
+    "covered_slice": "General Policy — Indian Constitution and polity",
+    "topics_covered": [
+      "Fundamental Rights",
+      "Directive Principles of State Policy",
+      "Fundamental Duties",
+      "President and Vice-President",
+      "Union Council of Ministers",
+      "Parliament and its procedure",
+      "Comptroller and Auditor-General",
+      "Finance Commission",
+      "Public Service Commissions",
+      "Election Commission and adult suffrage",
+      "Panchayat elections"
+    ],
+    "coverage_limit": "This is a 25-question Indian Polity topic set. It is not a balanced, complete General Awareness section or a full 100-question Tier-I mock test."
+  },
+  "official_sources": [
+    {
+      "source_id": "SSC-CGL-2026-NOTICE",
+      "title": "Combined Graduate Level Examination, 2026 — Notice",
+      "authority": "Staff Selection Commission",
+      "date": "2026-05-21",
+      "relevant_parts": "Para 13.8: Tier-I subject-wise question count, marks, total duration and sectional timer; para 13.8.1: bilingual rule; para 13.8.2: negative marking; para 13.10.2: General Awareness syllabus.",
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf"
+    },
+    {
+      "source_id": "CONSTITUTION-2026-09-10",
+      "title": "The Constitution of India (as on 10 September 2026)",
+      "authority": "Legislative Department, Ministry of Law and Justice, Government of India",
+      "date": "2026-09-10",
+      "relevant_parts": "Articles 14, 16, 17, 21, 21A, 32, 40, 51A, 54, 56, 64, 74, 80, 83, 85, 109, 110, 123, 148, 243K, 280, 315, 324 and 326.",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    }
+  ],
+  "quality_note": {
+    "question_origin": "All 25 items are original EXAM MASTER practice questions, not official previous-year questions.",
+    "answer_review": "Each answer was checked against the cited article of the official Constitution text; answer choices were reviewed for one best answer.",
+    "translation_review": "Hindi and English question stems, options and explanations were checked for equivalent meaning.",
+    "marking_review": "All items use the official SSC CGL 2026 Tier-I marking rule: +2 correct, -0.50 wrong, 0 unattempted.",
+    "human_review": "Independent human subject-expert review remains pending before public release."
+  },
+  "progress_log": {
+    "prior_batches_checked": [
+      "EXAM-MASTER-2026-11-14-SSC-CGL-T1-REASONING-01 (25 Reasoning questions)",
+      "EXAM_MASTER_complete_demo.html (five generic demo quiz items, including Constitution commencement and Parliament houses)",
+      "EXAM_MASTER_mock_test_demo.html (ten generic sample questions)"
+    ],
+    "completed_this_batch": [
+      "SSC CGL 2026 Tier-I — General Awareness — Indian Polity topic slice"
+    ],
+    "new_questions": 25,
+    "duplicate_check": "No exact or near-duplicate question was found against the prior 25 Reasoning questions or the prototype's generic sample questions. Duplicate checks were also performed within this batch.",
+    "remaining_for_full_ssc_cgl_tier_i": [
+      "General Awareness: History, Culture, Geography, Economy, Scientific Research and Current Affairs remain to be developed; this batch covers only Indian Polity.",
+      "Quantitative Aptitude: 25-question section not yet built.",
+      "English Comprehension: 25-question section not yet built.",
+      "The prior Reasoning batch covers 25 of the 25 Reasoning section questions."
+    ],
+    "remaining_platform_coverage": [
+      "SSC CHSL, MTS, GD, CPO and other SSC exams",
+      "Railway, Banking, UPSC, Defence and Teaching exams",
+      "State and UT exams across all 28 States and 8 Union Territories"
+    ]
+  },
+  "questions": [
+    {
+      "id": "CGL26-T1-GA-POL-001",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Equality before law",
+      "subtopic": "Article 14",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Which two guarantees are expressly stated in Article 14 of the Constitution of India?",
+          "options": {
+            "A": "Equality before law and equal protection of the laws",
+            "B": "Equality of opportunity in public employment only",
+            "C": "Freedom of speech and expression",
+            "D": "Protection against arrest and detention"
+          },
+          "explanation": "Article 14 states that the State shall not deny any person equality before the law or equal protection of the laws within India."
+        },
+        "hi": {
+          "question": "भारत के संविधान के अनुच्छेद 14 में स्पष्ट रूप से कौन-सी दो गारंटियाँ दी गई हैं?",
+          "options": {
+            "A": "कानून के समक्ष समानता और कानूनों का समान संरक्षण",
+            "B": "केवल लोक नियोजन में अवसर की समानता",
+            "C": "वाक् और अभिव्यक्ति की स्वतंत्रता",
+            "D": "गिरफ्तारी और निरोध से संरक्षण"
+          },
+          "explanation": "अनुच्छेद 14 के अनुसार राज्य भारत के क्षेत्र में किसी भी व्यक्ति को कानून के समक्ष समानता या कानूनों के समान संरक्षण से वंचित नहीं करेगा।"
+        }
+      },
+      "correct_option": "A",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 14",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-002",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Equality in public employment",
+      "subtopic": "Article 16",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Article 16 primarily guarantees equality of opportunity in which field?",
+          "options": {
+            "A": "Religious practice",
+            "B": "Public employment",
+            "C": "Ownership of private property",
+            "D": "Formation of political parties"
+          },
+          "explanation": "Article 16 is titled equality of opportunity in matters of public employment."
+        },
+        "hi": {
+          "question": "अनुच्छेद 16 मुख्य रूप से किस क्षेत्र में अवसर की समानता की गारंटी देता है?",
+          "options": {
+            "A": "धार्मिक आचरण",
+            "B": "लोक नियोजन",
+            "C": "निजी संपत्ति का स्वामित्व",
+            "D": "राजनीतिक दलों का गठन"
+          },
+          "explanation": "अनुच्छेद 16 का विषय लोक नियोजन के मामलों में अवसर की समानता है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 16",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-003",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Abolition of untouchability",
+      "subtopic": "Article 17",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Which Article of the Constitution abolishes untouchability?",
+          "options": {
+            "A": "Article 14",
+            "B": "Article 16",
+            "C": "Article 17",
+            "D": "Article 19"
+          },
+          "explanation": "Article 17 abolishes untouchability and forbids its practice in any form."
+        },
+        "hi": {
+          "question": "संविधान का कौन-सा अनुच्छेद अस्पृश्यता का उन्मूलन करता है?",
+          "options": {
+            "A": "अनुच्छेद 14",
+            "B": "अनुच्छेद 16",
+            "C": "अनुच्छेद 17",
+            "D": "अनुच्छेद 19"
+          },
+          "explanation": "अनुच्छेद 17 अस्पृश्यता का उन्मूलन करता है और उसके किसी भी रूप में आचरण को निषिद्ध करता है।"
+        }
+      },
+      "correct_option": "C",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 17",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-004",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Life and personal liberty",
+      "subtopic": "Article 21",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "According to Article 21, a person may be deprived of life or personal liberty only:",
+          "options": {
+            "A": "By an executive announcement",
+            "B": "By a procedure established by law",
+            "C": "By a resolution of either House of Parliament",
+            "D": "By an order of a local authority without legal basis"
+          },
+          "explanation": "Article 21 says that no person shall be deprived of life or personal liberty except according to procedure established by law."
+        },
+        "hi": {
+          "question": "अनुच्छेद 21 के अनुसार किसी व्यक्ति को जीवन या व्यक्तिगत स्वतंत्रता से केवल किस स्थिति में वंचित किया जा सकता है?",
+          "options": {
+            "A": "कार्यपालिका की घोषणा से",
+            "B": "विधि द्वारा स्थापित प्रक्रिया के अनुसार",
+            "C": "संसद के किसी एक सदन के संकल्प से",
+            "D": "कानूनी आधार के बिना स्थानीय प्राधिकारी के आदेश से"
+          },
+          "explanation": "अनुच्छेद 21 कहता है कि किसी व्यक्ति को विधि द्वारा स्थापित प्रक्रिया के अनुसार ही जीवन या व्यक्तिगत स्वतंत्रता से वंचित किया जा सकता है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 21",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-005",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Right to education",
+      "subtopic": "Article 21A",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Article 21A provides free and compulsory education to children in which age group?",
+          "options": {
+            "A": "3 to 6 years",
+            "B": "6 to 14 years",
+            "C": "14 to 18 years",
+            "D": "5 to 15 years"
+          },
+          "explanation": "Article 21A directs the State to provide free and compulsory education to all children aged six to fourteen years."
+        },
+        "hi": {
+          "question": "अनुच्छेद 21A किस आयु-वर्ग के बच्चों को निःशुल्क और अनिवार्य शिक्षा का प्रावधान देता है?",
+          "options": {
+            "A": "3 से 6 वर्ष",
+            "B": "6 से 14 वर्ष",
+            "C": "14 से 18 वर्ष",
+            "D": "5 से 15 वर्ष"
+          },
+          "explanation": "अनुच्छेद 21A राज्य को छह से चौदह वर्ष तक के सभी बच्चों को निःशुल्क और अनिवार्य शिक्षा देने का निर्देश देता है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 21A",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-006",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Constitutional remedies",
+      "subtopic": "Article 32",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Under Article 32, which court is expressly empowered to be approached for enforcement of Fundamental Rights?",
+          "options": {
+            "A": "District Court",
+            "B": "Supreme Court of India",
+            "C": "Only a Family Court",
+            "D": "A Gram Nyayalaya"
+          },
+          "explanation": "Article 32 guarantees the right to move the Supreme Court by appropriate proceedings for enforcement of the rights conferred by Part III."
+        },
+        "hi": {
+          "question": "मौलिक अधिकारों के प्रवर्तन के लिए अनुच्छेद 32 के अंतर्गत किस न्यायालय में सीधे जाया जा सकता है?",
+          "options": {
+            "A": "जिला न्यायालय",
+            "B": "भारत का सर्वोच्च न्यायालय",
+            "C": "केवल परिवार न्यायालय",
+            "D": "ग्राम न्यायालय"
+          },
+          "explanation": "अनुच्छेद 32 भाग III द्वारा प्रदत्त अधिकारों के प्रवर्तन के लिए उचित कार्यवाही द्वारा सर्वोच्च न्यायालय जाने के अधिकार की गारंटी देता है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 32",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-007",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Village panchayats",
+      "subtopic": "Article 40",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Which constitutional provision directs the State to organise village panchayats as units of self-government?",
+          "options": {
+            "A": "Article 32",
+            "B": "Article 40",
+            "C": "Article 51A",
+            "D": "Article 74"
+          },
+          "explanation": "Article 40, a Directive Principle of State Policy, asks the State to organise village panchayats and endow them with necessary powers and authority."
+        },
+        "hi": {
+          "question": "कौन-सा संवैधानिक प्रावधान राज्य को ग्राम पंचायतों को स्वशासन की इकाइयों के रूप में संगठित करने का निर्देश देता है?",
+          "options": {
+            "A": "अनुच्छेद 32",
+            "B": "अनुच्छेद 40",
+            "C": "अनुच्छेद 51A",
+            "D": "अनुच्छेद 74"
+          },
+          "explanation": "अनुच्छेद 40, जो राज्य के नीति-निदेशक तत्वों में है, राज्य को ग्राम पंचायतें संगठित करने और उन्हें आवश्यक शक्तियाँ व अधिकार देने का निर्देश देता है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 40",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-008",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Fundamental duties",
+      "subtopic": "Article 51A",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "To whom are the Fundamental Duties listed in Article 51A addressed?",
+          "options": {
+            "A": "Every citizen of India",
+            "B": "Only elected representatives",
+            "C": "Only government employees",
+            "D": "Only persons above 25 years"
+          },
+          "explanation": "Article 51A begins by stating that it shall be the duty of every citizen of India to observe the listed duties."
+        },
+        "hi": {
+          "question": "अनुच्छेद 51A में उल्लिखित मौलिक कर्तव्य किसके लिए निर्धारित हैं?",
+          "options": {
+            "A": "भारत के प्रत्येक नागरिक के लिए",
+            "B": "केवल निर्वाचित प्रतिनिधियों के लिए",
+            "C": "केवल सरकारी कर्मचारियों के लिए",
+            "D": "केवल 25 वर्ष से अधिक आयु के व्यक्तियों के लिए"
+          },
+          "explanation": "अनुच्छेद 51A में कहा गया है कि सूचीबद्ध कर्तव्यों का पालन करना भारत के प्रत्येक नागरिक का कर्तव्य होगा।"
+        }
+      },
+      "correct_option": "A",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 51A",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-009",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Election of the President",
+      "subtopic": "Article 54",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Which group forms the electoral college for the election of the President of India under Article 54?",
+          "options": {
+            "A": "All members of Parliament, including nominated members, and all State legislators",
+            "B": "Elected members of both Houses of Parliament and elected members of the Legislative Assemblies of States",
+            "C": "Only elected members of the Lok Sabha",
+            "D": "Members of Parliament and members of State Legislative Councils only"
+          },
+          "explanation": "Article 54 specifies elected members of both Houses of Parliament and elected members of State Legislative Assemblies. Its Explanation includes the National Capital Territory of Delhi and Puducherry within the expression 'State' for this purpose."
+        },
+        "hi": {
+          "question": "अनुच्छेद 54 के अंतर्गत भारत के राष्ट्रपति के निर्वाचन के लिए कौन-सा समूह निर्वाचक मंडल बनाता है?",
+          "options": {
+            "A": "नामित सदस्यों सहित संसद के सभी सदस्य और सभी राज्य विधानमंडल सदस्य",
+            "B": "संसद के दोनों सदनों के निर्वाचित सदस्य तथा राज्यों की विधानसभाओं के निर्वाचित सदस्य",
+            "C": "केवल लोकसभा के निर्वाचित सदस्य",
+            "D": "केवल संसद सदस्य और राज्य विधान परिषदों के सदस्य"
+          },
+          "explanation": "अनुच्छेद 54 में संसद के दोनों सदनों के निर्वाचित सदस्यों और राज्यों की विधानसभाओं के निर्वाचित सदस्यों को शामिल किया गया है। इस प्रयोजन के लिए इसकी व्याख्या में राष्ट्रीय राजधानी क्षेत्र दिल्ली और पुडुचेरी भी 'राज्य' में शामिल हैं।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 54",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-010",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Term of the President",
+      "subtopic": "Article 56",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "What is the normal term of office of the President of India under Article 56?",
+          "options": {
+            "A": "Four years",
+            "B": "Five years",
+            "C": "Six years",
+            "D": "Seven years"
+          },
+          "explanation": "Article 56 provides that the President holds office for five years from the date on which the President enters upon office, subject to its stated provisions."
+        },
+        "hi": {
+          "question": "अनुच्छेद 56 के अनुसार भारत के राष्ट्रपति का सामान्य कार्यकाल कितना होता है?",
+          "options": {
+            "A": "चार वर्ष",
+            "B": "पाँच वर्ष",
+            "C": "छह वर्ष",
+            "D": "सात वर्ष"
+          },
+          "explanation": "अनुच्छेद 56 के अनुसार राष्ट्रपति पद ग्रहण करने की तारीख से पाँच वर्ष तक पद पर रहते हैं, जो उसमें दिए गए प्रावधानों के अधीन है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 56",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-011",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Vice-President and Rajya Sabha",
+      "subtopic": "Article 64",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Who is the ex officio Chairman of the Council of States (Rajya Sabha)?",
+          "options": {
+            "A": "President of India",
+            "B": "Prime Minister",
+            "C": "Vice-President of India",
+            "D": "Speaker of the Lok Sabha"
+          },
+          "explanation": "Article 64 makes the Vice-President the ex officio Chairman of the Council of States."
+        },
+        "hi": {
+          "question": "राज्यों की परिषद (राज्यसभा) का पदेन सभापति कौन होता है?",
+          "options": {
+            "A": "भारत के राष्ट्रपति",
+            "B": "प्रधानमंत्री",
+            "C": "भारत के उपराष्ट्रपति",
+            "D": "लोकसभा अध्यक्ष"
+          },
+          "explanation": "अनुच्छेद 64 उपराष्ट्रपति को राज्यों की परिषद का पदेन सभापति बनाता है।"
+        }
+      },
+      "correct_option": "C",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 64",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-012",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Council of Ministers",
+      "subtopic": "Article 74",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Under Article 74, who heads the Union Council of Ministers that aids and advises the President?",
+          "options": {
+            "A": "President",
+            "B": "Prime Minister",
+            "C": "Vice-President",
+            "D": "Attorney-General"
+          },
+          "explanation": "Article 74 provides for a Council of Ministers with the Prime Minister at its head to aid and advise the President."
+        },
+        "hi": {
+          "question": "अनुच्छेद 74 के अनुसार राष्ट्रपति की सहायता और सलाह देने वाली केंद्रीय मंत्रिपरिषद का प्रमुख कौन होता है?",
+          "options": {
+            "A": "राष्ट्रपति",
+            "B": "प्रधानमंत्री",
+            "C": "उपराष्ट्रपति",
+            "D": "महान्यायवादी"
+          },
+          "explanation": "अनुच्छेद 74 में राष्ट्रपति की सहायता और सलाह के लिए प्रधानमंत्री के नेतृत्व में मंत्रिपरिषद का प्रावधान है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 74",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-013",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Rajya Sabha composition",
+      "subtopic": "Article 80",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "How many members of the Council of States may be nominated by the President under Article 80?",
+          "options": {
+            "A": "10",
+            "B": "12",
+            "C": "15",
+            "D": "20"
+          },
+          "explanation": "Article 80 provides for twelve nominated members, selected from persons with special knowledge or practical experience in literature, science, art and social service."
+        },
+        "hi": {
+          "question": "अनुच्छेद 80 के अंतर्गत राष्ट्रपति राज्यों की परिषद में कितने सदस्यों को नामित कर सकते हैं?",
+          "options": {
+            "A": "10",
+            "B": "12",
+            "C": "15",
+            "D": "20"
+          },
+          "explanation": "अनुच्छेद 80 के अनुसार साहित्य, विज्ञान, कला और समाज सेवा में विशेष ज्ञान या व्यावहारिक अनुभव रखने वाले व्यक्तियों में से बारह सदस्य नामित किए जाते हैं।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 80",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-014",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Permanent nature of Rajya Sabha",
+      "subtopic": "Article 83",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Which statement about the Council of States (Rajya Sabha) is correct under Article 83?",
+          "options": {
+            "A": "It is dissolved every five years",
+            "B": "It is not subject to dissolution; about one-third of its members retire every second year",
+            "C": "All its members retire every six years on the same date",
+            "D": "It is dissolved whenever the Lok Sabha is dissolved"
+          },
+          "explanation": "Article 83 states that the Council of States is not subject to dissolution and, as nearly as possible, one-third of its members retire every second year."
+        },
+        "hi": {
+          "question": "अनुच्छेद 83 के अनुसार राज्यों की परिषद (राज्यसभा) के बारे में कौन-सा कथन सही है?",
+          "options": {
+            "A": "इसे प्रत्येक पाँच वर्ष में भंग किया जाता है",
+            "B": "यह भंग नहीं होती; इसके लगभग एक-तिहाई सदस्य प्रत्येक दूसरे वर्ष सेवानिवृत्त होते हैं",
+            "C": "इसके सभी सदस्य प्रत्येक छह वर्ष में एक ही तारीख को सेवानिवृत्त होते हैं",
+            "D": "लोकसभा भंग होने पर यह भी भंग हो जाती है"
+          },
+          "explanation": "अनुच्छेद 83 के अनुसार राज्यों की परिषद भंग नहीं होती और यथासंभव इसके एक-तिहाई सदस्य प्रत्येक दूसरे वर्ष सेवानिवृत्त होते हैं।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 83",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-015",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Sessions of Parliament",
+      "subtopic": "Article 85",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Under Article 85, what is the maximum interval that may intervene between the last sitting of one session of Parliament and the first sitting of the next session?",
+          "options": {
+            "A": "Three months",
+            "B": "Four months",
+            "C": "Six months",
+            "D": "Twelve months"
+          },
+          "explanation": "Article 85 states that six months shall not intervene between the last sitting in one session and the first sitting in the next session."
+        },
+        "hi": {
+          "question": "अनुच्छेद 85 के अनुसार संसद के एक सत्र की अंतिम बैठक और अगले सत्र की पहली बैठक के बीच अधिकतम कितना अंतर हो सकता है?",
+          "options": {
+            "A": "तीन महीने",
+            "B": "चार महीने",
+            "C": "छह महीने",
+            "D": "बारह महीने"
+          },
+          "explanation": "अनुच्छेद 85 के अनुसार एक सत्र की अंतिम बैठक और अगले सत्र की पहली बैठक के बीच छह महीने से अधिक का अंतर नहीं होना चाहिए।"
+        }
+      },
+      "correct_option": "C",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 85",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-016",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Money Bill procedure",
+      "subtopic": "Article 109",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "In which House of Parliament can a Money Bill NOT be introduced?",
+          "options": {
+            "A": "Lok Sabha",
+            "B": "Rajya Sabha",
+            "C": "Either House",
+            "D": "A joint sitting"
+          },
+          "explanation": "Article 109(1) expressly states that a Money Bill shall not be introduced in the Council of States (Rajya Sabha)."
+        },
+        "hi": {
+          "question": "संसद के किस सदन में धन विधेयक प्रस्तुत नहीं किया जा सकता?",
+          "options": {
+            "A": "लोकसभा",
+            "B": "राज्यसभा",
+            "C": "किसी भी सदन में",
+            "D": "संयुक्त बैठक में"
+          },
+          "explanation": "अनुच्छेद 109(1) स्पष्ट करता है कि धन विधेयक राज्यों की परिषद (राज्यसभा) में प्रस्तुत नहीं किया जाएगा।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 109",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-017",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Money Bill return period",
+      "subtopic": "Article 109",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "After the Lok Sabha passes a Money Bill and sends it to the Rajya Sabha for recommendations, within how many days must the Rajya Sabha return it?",
+          "options": {
+            "A": "7 days",
+            "B": "10 days",
+            "C": "14 days",
+            "D": "30 days"
+          },
+          "explanation": "Article 109(2) gives the Rajya Sabha fourteen days from receipt of the Money Bill to return it with its recommendations."
+        },
+        "hi": {
+          "question": "लोकसभा द्वारा धन विधेयक पारित कर सिफारिशों के लिए राज्यसभा को भेजने के बाद राज्यसभा को कितने दिनों के भीतर उसे लौटाना होता है?",
+          "options": {
+            "A": "7 दिन",
+            "B": "10 दिन",
+            "C": "14 दिन",
+            "D": "30 दिन"
+          },
+          "explanation": "अनुच्छेद 109(2) के अनुसार राज्यसभा को धन विधेयक प्राप्त होने की तारीख से चौदह दिनों के भीतर अपनी सिफारिशों सहित उसे लौटाना होता है।"
+        }
+      },
+      "correct_option": "C",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 109",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-018",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Certification of Money Bills",
+      "subtopic": "Article 110",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "If a question arises whether a Bill is a Money Bill, whose decision is final under Article 110?",
+          "options": {
+            "A": "President of India",
+            "B": "Chairman of Rajya Sabha",
+            "C": "Speaker of Lok Sabha",
+            "D": "Finance Minister"
+          },
+          "explanation": "Article 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the House of the People is final."
+        },
+        "hi": {
+          "question": "यदि यह प्रश्न उठे कि कोई विधेयक धन विधेयक है या नहीं, तो अनुच्छेद 110 के अनुसार किसका निर्णय अंतिम होता है?",
+          "options": {
+            "A": "भारत के राष्ट्रपति",
+            "B": "राज्यसभा के सभापति",
+            "C": "लोकसभा अध्यक्ष",
+            "D": "वित्त मंत्री"
+          },
+          "explanation": "अनुच्छेद 110(3) के अनुसार यदि यह प्रश्न उठे कि कोई विधेयक धन विधेयक है या नहीं, तो लोकसभा अध्यक्ष का निर्णय अंतिम होता है।"
+        }
+      },
+      "correct_option": "C",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 110",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-019",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Ordinance-making power",
+      "subtopic": "Article 123",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Under Article 123, the President may promulgate an Ordinance when:",
+          "options": {
+            "A": "Both Houses of Parliament are simultaneously in session",
+            "B": "Both Houses are not simultaneously in session and immediate action is considered necessary",
+            "C": "The Lok Sabha has been dissolved and no other condition applies",
+            "D": "The Supreme Court requests an Ordinance"
+          },
+          "explanation": "Article 123 applies when both Houses are not in session together and the President is satisfied that circumstances require immediate action."
+        },
+        "hi": {
+          "question": "अनुच्छेद 123 के अंतर्गत राष्ट्रपति अध्यादेश कब जारी कर सकते हैं?",
+          "options": {
+            "A": "संसद के दोनों सदन एक साथ सत्र में हों",
+            "B": "संसद के दोनों सदन एक साथ सत्र में न हों और तत्काल कार्रवाई आवश्यक मानी जाए",
+            "C": "लोकसभा भंग हो और कोई अन्य शर्त लागू न हो",
+            "D": "सर्वोच्च न्यायालय अध्यादेश का अनुरोध करे"
+          },
+          "explanation": "अनुच्छेद 123 तब लागू होता है जब संसद के दोनों सदन एक साथ सत्र में न हों और राष्ट्रपति संतुष्ट हों कि परिस्थितियों में तत्काल कार्रवाई आवश्यक है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 123",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-020",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Comptroller and Auditor-General",
+      "subtopic": "Article 148",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Who appoints the Comptroller and Auditor-General of India under Article 148?",
+          "options": {
+            "A": "Prime Minister",
+            "B": "President of India",
+            "C": "Chief Justice of India",
+            "D": "Lok Sabha Speaker"
+          },
+          "explanation": "Article 148(1) provides that the CAG is appointed by the President by warrant under the President's hand and seal."
+        },
+        "hi": {
+          "question": "अनुच्छेद 148 के अनुसार भारत के नियंत्रक एवं महालेखा परीक्षक की नियुक्ति कौन करता है?",
+          "options": {
+            "A": "प्रधानमंत्री",
+            "B": "भारत के राष्ट्रपति",
+            "C": "भारत के मुख्य न्यायाधीश",
+            "D": "लोकसभा अध्यक्ष"
+          },
+          "explanation": "अनुच्छेद 148(1) के अनुसार CAG की नियुक्ति राष्ट्रपति अपने हस्ताक्षर और मुहर सहित अधिपत्र द्वारा करते हैं।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 148",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-021",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Finance Commission",
+      "subtopic": "Article 280",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Under Article 280, a Finance Commission consists of a Chairman and how many other members?",
+          "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+          },
+          "explanation": "Article 280(1) provides for a Finance Commission consisting of a Chairman and four other members appointed by the President."
+        },
+        "hi": {
+          "question": "अनुच्छेद 280 के अनुसार वित्त आयोग में एक अध्यक्ष के अतिरिक्त कितने अन्य सदस्य होते हैं?",
+          "options": {
+            "A": "दो",
+            "B": "तीन",
+            "C": "चार",
+            "D": "पाँच"
+          },
+          "explanation": "अनुच्छेद 280(1) के अनुसार राष्ट्रपति द्वारा नियुक्त एक अध्यक्ष और चार अन्य सदस्यों वाला वित्त आयोग गठित किया जाता है।"
+        }
+      },
+      "correct_option": "C",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 280",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-022",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Public Service Commissions",
+      "subtopic": "Article 315",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Which Article provides for Public Service Commissions for the Union and for the States?",
+          "options": {
+            "A": "Article 280",
+            "B": "Article 315",
+            "C": "Article 324",
+            "D": "Article 368"
+          },
+          "explanation": "Article 315 is titled 'Public Service Commissions for the Union and for the States'."
+        },
+        "hi": {
+          "question": "संघ और राज्यों के लिए लोक सेवा आयोगों का प्रावधान किस अनुच्छेद में है?",
+          "options": {
+            "A": "अनुच्छेद 280",
+            "B": "अनुच्छेद 315",
+            "C": "अनुच्छेद 324",
+            "D": "अनुच्छेद 368"
+          },
+          "explanation": "अनुच्छेद 315 का शीर्षक 'संघ और राज्यों के लिए लोक सेवा आयोग' है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 315",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-023",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Election Commission of India",
+      "subtopic": "Article 324",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Which body has constitutional superintendence, direction and control of elections under Article 324?",
+          "options": {
+            "A": "Union Public Service Commission",
+            "B": "Finance Commission",
+            "C": "Election Commission of India",
+            "D": "NITI Aayog"
+          },
+          "explanation": "Article 324 vests the superintendence, direction and control of elections in the Election Commission."
+        },
+        "hi": {
+          "question": "अनुच्छेद 324 के अंतर्गत चुनावों का संवैधानिक अधीक्षण, निर्देशन और नियंत्रण किस संस्था के पास है?",
+          "options": {
+            "A": "संघ लोक सेवा आयोग",
+            "B": "वित्त आयोग",
+            "C": "भारत निर्वाचन आयोग",
+            "D": "नीति आयोग"
+          },
+          "explanation": "अनुच्छेद 324 चुनावों का अधीक्षण, निर्देशन और नियंत्रण निर्वाचन आयोग में निहित करता है।"
+        }
+      },
+      "correct_option": "C",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 324",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-024",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Adult suffrage",
+      "subtopic": "Article 326",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Under Article 326, elections to which bodies are based on adult suffrage?",
+          "options": {
+            "A": "Only Municipalities",
+            "B": "House of the People and State Legislative Assemblies",
+            "C": "Only Rajya Sabha",
+            "D": "Only Panchayats"
+          },
+          "explanation": "Article 326 provides for elections to the House of the People and the Legislative Assemblies of States on the basis of adult suffrage."
+        },
+        "hi": {
+          "question": "अनुच्छेद 326 के अनुसार किन निकायों के चुनाव वयस्क मताधिकार के आधार पर होते हैं?",
+          "options": {
+            "A": "केवल नगरपालिकाएँ",
+            "B": "लोकसभा और राज्य विधानसभाएँ",
+            "C": "केवल राज्यसभा",
+            "D": "केवल पंचायतें"
+          },
+          "explanation": "अनुच्छेद 326 लोकसभा और राज्यों की विधानसभाओं के चुनाव वयस्क मताधिकार के आधार पर कराने का प्रावधान करता है।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 326",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    },
+    {
+      "id": "CGL26-T1-GA-POL-025",
+      "exam_id": "SSC_CGL_2026",
+      "exam": "SSC Combined Graduate Level Examination, 2026",
+      "stage": "Tier-I",
+      "paper": "Tier-I Computer Based Examination",
+      "section": "B",
+      "subject": "General Awareness",
+      "topic": "Panchayat elections",
+      "subtopic": "Article 243K",
+      "difficulty": "Moderate",
+      "question_type": "MCQ",
+      "languages": {
+        "en": {
+          "question": "Who appoints the State Election Commissioner under Article 243K for Panchayat elections?",
+          "options": {
+            "A": "President of India",
+            "B": "Governor of the State",
+            "C": "Chief Minister",
+            "D": "Chief Election Commissioner of India"
+          },
+          "explanation": "Article 243K provides that the State Election Commission conducts Panchayat elections and that the State Election Commissioner is appointed by the Governor."
+        },
+        "hi": {
+          "question": "पंचायत चुनावों के लिए अनुच्छेद 243K के अंतर्गत राज्य निर्वाचन आयुक्त की नियुक्ति कौन करता है?",
+          "options": {
+            "A": "भारत के राष्ट्रपति",
+            "B": "राज्य के राज्यपाल",
+            "C": "मुख्यमंत्री",
+            "D": "भारत के मुख्य निर्वाचन आयुक्त"
+          },
+          "explanation": "अनुच्छेद 243K के अनुसार पंचायत चुनावों का नियंत्रण राज्य निर्वाचन आयोग के पास होता है और राज्य निर्वाचन आयुक्त की नियुक्ति राज्यपाल करते हैं।"
+        }
+      },
+      "correct_option": "B",
+      "marks": {
+        "correct": 2,
+        "wrong": -0.5,
+        "unattempted": 0
+      },
+      "negative_marking_rule": "Tier-I: -0.50 marks for each wrong answer; no penalty for an unattempted question.",
+      "provenance": "Original EXAM MASTER practice item; not an official PYQ.",
+      "source_reference": {
+        "document": "The Constitution of India (as on 10 September 2026), Legislative Department, Ministry of Law and Justice, Government of India",
+        "article": "Article 243K",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+      },
+      "syllabus_reference": "SSC CGL 2026 Notice dated 2026-05-21, para 13.10.2 (General Awareness: General Policy)."
+    }
+  ]
+}
